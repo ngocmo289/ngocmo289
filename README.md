@@ -2,8 +2,11 @@
 ### Hi there 👋
 
 👯: I was born in 2002.
+
 🇻🇳 : I'm from VietNam
+
 ❤️: I'm passionate about: Mobile Developer, ....developer.....
+
 📧: Contact me at nguyenngocmo280902@gmail.com
 
 ## 🌐Socials
