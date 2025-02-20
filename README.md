@@ -7,7 +7,7 @@
 
 ❤️: I'm passionate about: Mobile Developer, ....developer.....
 
-📧: Contact me at nguyenngocmo280902@gmail.com
+📧: Contact me at nnm2809202@gmail.com
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/mo.nguyenngoc.73) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mo-nguyenngoc-a6a370286/) 
